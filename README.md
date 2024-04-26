@@ -2,8 +2,8 @@
   <h1>Hi there, I'm a Junior Frontend developer 💻</h1>
 </div>
 
-<h3>Ambitious open-minded Frontend developer eager to learn and implement knowledge into work. Focus on HTML/CSS, JavaScript, React.JS and continuing to gain knowledge to improve my expertise.
-</h3>
+<p>Ambitious open-minded Frontend developer eager to learn and implement knowledge into work. Focus on HTML/CSS, JavaScript, React.JS and continuing to gain knowledge to improve my expertise.
+</p>
 
 <h3 align="left">To get in touch with me:</h3>
 <p align="left">
